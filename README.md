@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis In the Banking sector
+# Marketing Campaign Analysis In The Banking Sector
 
 ### Background and Objective:
 
