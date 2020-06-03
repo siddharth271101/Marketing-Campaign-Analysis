@@ -1,4 +1,4 @@
-# Market Analysis In Banking Domain
+# Marketing Campaign Analysis In the Banking sector
 
 ### Background and Objective:
 
